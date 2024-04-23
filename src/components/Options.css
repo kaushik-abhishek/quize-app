@@ -1,0 +1,12 @@
+.options {
+    display: flex;
+    gap: 10px;
+}
+.correct {
+    background: green;
+
+
+}
+.wrong {
+    background: yellow;
+}
